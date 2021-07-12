@@ -4,12 +4,12 @@
 
 # Installation
 
-`npm i testpackage --save`
+`npm i indhithirdpartytest --save`
 
 Then...
 
 ```
-import { testpackage } from  'testpackage'
+import { indhithirdpartytest } from  'testpackage'
 
 connect(clientId, redirectURI, key);
 
