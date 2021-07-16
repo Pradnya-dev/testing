@@ -1,5 +1,5 @@
 {
-  "name": "testingforindhi",
+  "name": "indhithirdpartytest",
   "version": "1.0.0",
   "description": "web third party",
   "main": "index.js",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Pradnya-dev/testing/issues"
   },
-  "homepage": "https://github.com/Pradnya-dev/testing#readme"
+  "homepage": "https://github.com/Pradnya-dev/testing#readme",
+  "dependencies": {
+    "indhithirdpartytest": "^1.0.0",
+    "testpackage": "^1.0.0"
+  }
 }
